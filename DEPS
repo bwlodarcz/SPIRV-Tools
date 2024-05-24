@@ -13,7 +13,7 @@ vars = {
   'protobuf_revision': 'v21.12',
 
   're2_revision': 'a771d3fbe7c432dc4db68360c6c0004fdde5646b',
-  'spirv_headers_revision': '4f7b471f1a66b6d06462cd4ba57628cc0cd087d7',
+  'spirv_headers_revision': '49a1fceb9b1d087f3c25ad5ec077bb0e46231297',
 }
 
 deps = {
